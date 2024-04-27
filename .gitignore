@@ -1,1 +1,9 @@
-Build/
+.cache
+.unsaved
+.user
+private
+
+*.bak
+
+[Mm]etadata/Workspace.xml
+[Bb]uild
