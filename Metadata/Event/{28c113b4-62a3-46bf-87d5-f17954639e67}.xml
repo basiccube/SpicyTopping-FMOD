@@ -123,7 +123,7 @@
 	</object>
 	<object class="TransitionSourceSound" id="{44dc6c06-4241-4d08-841f-0b75c5c66175}">
 		<property name="length">
-			<value>1.4000000000000001</value>
+			<value>0.60000000000000009</value>
 		</property>
 		<relationship name="fadeOutCurve">
 			<destination>{08b5194a-ab07-4a4c-afa0-9ac956bc82be}</destination>
@@ -217,12 +217,12 @@
 			<value>1</value>
 		</property>
 		<property name="curveShape">
-			<value>-1.00000048</value>
+			<value>-0.0422687978</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{0c69d0d0-33d8-4f73-a675-0daea1217bb0}">
 		<property name="position">
-			<value>1.4000000000000001</value>
+			<value>0.60000000000000009</value>
 		</property>
 		<property name="value">
 			<value>0</value>
@@ -236,7 +236,7 @@
 			<value>0</value>
 		</property>
 		<property name="curveShape">
-			<value>-0.295939565</value>
+			<value>-0.642911494</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{4c7f5ae5-11a3-4407-a34a-7a8e9376b94c}">
