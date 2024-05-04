@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{66a24f4a-025c-4a0c-a81e-abd47240c377}">
 		<property name="name">
-			<value>wordwidenoise</value>
+			<value>worldwidenoise</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
