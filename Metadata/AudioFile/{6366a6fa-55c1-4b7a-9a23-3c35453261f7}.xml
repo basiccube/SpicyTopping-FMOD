@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6366a6fa-55c1-4b7a-9a23-3c35453261f7}">
+		<property name="assetPath">
+			<value>music/WorldOld/DeliveryfortheCity.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>128.88816326530613</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{86976894-371d-4d29-807f-397b0fdecbf7}</destination>
+		</relationship>
+	</object>
+</objects>
