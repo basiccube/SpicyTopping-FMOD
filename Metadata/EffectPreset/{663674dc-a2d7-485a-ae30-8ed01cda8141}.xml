@@ -16,15 +16,15 @@
 			<value>1</value>
 		</property>
 		<relationship name="modulators">
-			<destination>{2aeade08-42b5-48a7-bdcb-a91d2714a96f}</destination>
+			<destination>{c4bc250d-f576-4f77-878c-0a03d6c3e2ea}</destination>
 		</relationship>
 	</object>
-	<object class="RandomizerModulator" id="{2aeade08-42b5-48a7-bdcb-a91d2714a96f}">
+	<object class="RandomizerModulator" id="{c4bc250d-f576-4f77-878c-0a03d6c3e2ea}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>pitch</value>
 		</property>
 		<property name="amount">
-			<value>30</value>
+			<value>5</value>
 		</property>
 	</object>
 </objects>

@@ -1216,10 +1216,10 @@
 	</object>
 	<object class="ParameterCondition" id="{4f2b9d12-385f-4227-9828-15da8db635aa}">
 		<property name="minimum">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="isInverted">
 			<value>true</value>
@@ -1345,10 +1345,10 @@
 	</object>
 	<object class="ParameterCondition" id="{0c5da93a-ffce-4468-880f-5485bbadcf0b}">
 		<property name="minimum">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<relationship name="parameter">
 			<destination>{cb375d42-cd0d-47b1-9275-c73407679939}</destination>
