@@ -95,8 +95,14 @@
 	</object>
 	<object class="MixerBusPanner" id="{539ca0a0-671a-46c4-82e6-8b9c8430fd85}" />
 	<object class="SingleSound" id="{a3f8de81-20a5-4672-b7f0-9ba9dd645c38}">
+		<property name="start">
+			<value>0.10000000000000001</value>
+		</property>
 		<property name="length">
 			<value>144.23743764172335</value>
+		</property>
+		<property name="volume">
+			<value>0.5</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{35fd3689-3dd5-4c33-9a4b-da482d51a329}</destination>
@@ -118,7 +124,7 @@
 	</object>
 	<object class="LoopRegion" id="{7ac8d3e5-c823-489a-af92-0fe4645baaa7}">
 		<property name="position">
-			<value>22.190000000000001</value>
+			<value>22.290000000000006</value>
 		</property>
 		<property name="length">
 			<value>103.56</value>

@@ -225,7 +225,7 @@
 			<destination>{d58d4e19-2711-4bf0-a850-6422150f50e9}</destination>
 		</relationship>
 		<relationship name="triggerConditions">
-			<destination>{9e1e4417-1108-4a3c-97cd-622812a246a7}</destination>
+			<destination>{bf32824f-67d7-4cb4-8685-1287d5af63de}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{7fd369d5-e560-43b2-9754-350a5f95275a}">
@@ -260,18 +260,15 @@
 			<destination>{dbd54a9a-23be-4a9b-b5af-d28e14a7e11d}</destination>
 		</relationship>
 	</object>
-	<object class="ParameterCondition" id="{9e1e4417-1108-4a3c-97cd-622812a246a7}">
+	<object class="ParameterCondition" id="{bf32824f-67d7-4cb4-8685-1287d5af63de}">
 		<property name="minimum">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<property name="maximum">
-			<value>0</value>
-		</property>
-		<property name="isInverted">
-			<value>true</value>
+			<value>1</value>
 		</property>
 		<relationship name="parameter">
-			<destination>{6930b51e-7efe-445b-973f-51989d6ce7ba}</destination>
+			<destination>{cb375d42-cd0d-47b1-9275-c73407679939}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{fd625597-13f5-4b91-a07a-4c4b9711771d}" />
