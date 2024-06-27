@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3bb2b16d-676f-4dd7-9c4f-3f71d98cd15e}">
+		<property name="assetPath">
+			<value>sfx/noise/wallbouncestart.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0536281179138323</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{86976894-371d-4d29-807f-397b0fdecbf7}</destination>
+		</relationship>
+	</object>
+</objects>

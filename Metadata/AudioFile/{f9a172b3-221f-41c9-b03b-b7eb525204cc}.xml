@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{f9a172b3-221f-41c9-b03b-b7eb525204cc}">
 		<property name="assetPath">
-			<value>sfx/vigilante/sfx_vigishot.ogg</value>
+			<value>sfx/vigilante/vigishot.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

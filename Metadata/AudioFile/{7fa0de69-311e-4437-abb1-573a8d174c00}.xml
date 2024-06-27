@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7fa0de69-311e-4437-abb1-573a8d174c00}">
+		<property name="assetPath">
+			<value>sfx/misc/sfx_kashing.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.7933333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{86976894-371d-4d29-807f-397b0fdecbf7}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{efb5a610-b10a-45d5-a34d-f016cb508e50}">
+		<property name="assetPath">
+			<value>sfx/misc/sfx_jumpscare.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.4159999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{86976894-371d-4d29-807f-397b0fdecbf7}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{902781e4-4f7e-41ac-909a-317db351b43a}">
+		<property name="name">
+			<value>antigrav</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5b322d2b-0ac7-45ab-907d-9d0a0f485f60}</destination>
+		</relationship>
+	</object>
+</objects>

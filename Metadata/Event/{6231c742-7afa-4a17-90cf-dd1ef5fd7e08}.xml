@@ -109,7 +109,7 @@
 			<value>1.0493333333333332</value>
 		</property>
 		<property name="volume">
-			<value>5</value>
+			<value>1</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{801e3121-9626-44ad-8f82-6a73a580f817}</destination>
@@ -142,7 +142,7 @@
 			<value>0.076151412164537691</value>
 		</property>
 		<property name="volume">
-			<value>2.5</value>
+			<value>-3.5</value>
 		</property>
 		<relationship name="fadeOutCurve">
 			<destination>{c40ca12e-fdac-44e7-920e-27f945cd2992}</destination>
