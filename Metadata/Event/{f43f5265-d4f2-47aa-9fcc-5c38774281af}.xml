@@ -127,7 +127,7 @@
 	<object class="MixerBusPanner" id="{4f22e17a-d5be-4071-868e-7f49351d96c0}" />
 	<object class="SingleSound" id="{d31cba93-ec9b-475f-8374-840a5b283b6f}">
 		<property name="volume">
-			<value>-6.5</value>
+			<value>-5</value>
 		</property>
 		<property name="pitch">
 			<value>8</value>

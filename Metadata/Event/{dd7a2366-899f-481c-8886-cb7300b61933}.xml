@@ -98,7 +98,7 @@
 			<value>0.63600000000000001</value>
 		</property>
 		<property name="volume">
-			<value>-2.5</value>
+			<value>-4</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{1a7aa2d6-61ae-4368-b23e-d20b2162ce4d}</destination>
@@ -112,7 +112,7 @@
 			<value>0.49199999999999999</value>
 		</property>
 		<property name="volume">
-			<value>-1</value>
+			<value>1</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{b0e85f62-b2b6-4f60-a6a4-7c1dc298a584}</destination>
@@ -144,7 +144,7 @@
 			<value>pitch</value>
 		</property>
 		<property name="amount">
-			<value>3</value>
+			<value>4.5</value>
 		</property>
 	</object>
 	<object class="MixerBusEffectChain" id="{0430831f-883d-418a-93f8-b95479e2d04f}">
